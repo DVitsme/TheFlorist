@@ -3,7 +3,7 @@ Just a small static flower shop to pratice basic react skills again. I think lat
 
 ## See the Site
 ```
-LIVE DEMO: (https://telling-chair.surge.sh)
+LIVE DEMO: [https://telling-chair.surge.sh](https://telling-chair.surge.sh)
 ```
 no one to install it if you dont want to I pushed a live demo with surge
 
